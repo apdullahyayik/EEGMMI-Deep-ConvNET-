@@ -1,6 +1,4 @@
-
-
-Deep  Learning with Convolutional Neural Network
+# Deep  Learning with Convolutional Neural Network
  Predicts Imagery Tasks Through EEG
 
 
