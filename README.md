@@ -1,8 +1,6 @@
-# Deep  Learning with Convolutional Neural Network
- Predicts Imagery Tasks Through EEG
+# Deep  Learning with Convolutional Neural Network Predicts Imagery Tasks Through EEG
 
-
-1. Train Deep ConvNET with raw EEG data
+## Train Deep ConvNET with raw EEG data
 	
 downloadEEGMMI
 Downloads and saves EEGMMI dataset  from Pyhsionet with corresponding events event
