@@ -2,7 +2,7 @@
 
 ## Train Deep ConvNET with raw EEG data
 	
-downloadEEGMMI
+### downloadEEGMMI
 Downloads and saves EEGMMI dataset  from Pyhsionet with corresponding events event
 
                X .................vector includes subject ids to be downloaded (1-109)
