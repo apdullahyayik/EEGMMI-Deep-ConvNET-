@@ -10,7 +10,7 @@ function [data, label]=isegment(id)
 %
 %
 %USAGE
-%                [data2, label2]=isegment(2);
+%                [data2, label2]=isegment(2)
 %
 %
 %                Authored by , Apdullah Yayık 2018
