@@ -13,7 +13,7 @@ function [data, label]=isegment(id)
 %                [data2, label2]=isegment(2)
 %
 %
-%                Authored by , Apdullah Yayık 2018
+%                Authored by , Apdullah Yayık 2019
 
 
 l=load('ann.mat'); % 0 left fist, 1 right fist
