@@ -86,18 +86,3 @@ accuracy_Test = sum(YPred_test == YTest)/numel(YTest)
 
  CMstoc=crosstab(YPred_test, YTest), save CMstoc CMstoc
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
