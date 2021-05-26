@@ -1,4 +1,4 @@
-# Deep  Learning with Convolutional Neural Network Predicts Imagery Tasks Through EEG
+# Deep ConvNET Predicts Imagery Tasks Through EEG
 
 ## If you use these codes in your project please gently cite as follows:
 
