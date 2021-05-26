@@ -8,11 +8,11 @@ Downloads and saves EEGMMI dataset  from Pyhsionet with corresponding events eve
                X .................vector includes subject ids to be downloaded (1-109)
                n..................tasks to be downloaded (1-14)
 
-### USAGE
+### usage
                    subject=1:15
 		   task=[2,5,7]
                    downloadEEGMMI(subject, task)
-### FILES
+### files
 		 S001R08.mat.......data file id:1, task: 8
 	         ann_S001R08.mat...event file id:1, task: 8
 
@@ -24,7 +24,7 @@ Downloads and saves EEGMMI dataset  from Pyhsionet with corresponding events eve
                 label............label related to data(with considering
                                  annotation)
                 requires ann.mat file that includes annotations 
-### USAGE
+### usage
                 [data2, label2]=isegment(2);
 
 
@@ -36,7 +36,7 @@ Downloads and saves EEGMMI dataset  from Pyhsionet with corresponding events eve
                 channelnumber......Number of channles 
                 feature............Images related to each trial with
                                    struct  data type
-###  USAGE
+###  usage
                 data=randn(2880, 656);
                 feature=tempimag(data, 64);
                 figure, imshow(feature.images{1})
