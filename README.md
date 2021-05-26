@@ -1,12 +1,28 @@
 # Deep  Learning with Convolutional Neural Network Predicts Imagery Tasks Through EEG
 
+## If you use these codes in your project please gently cite as follows:
+
+@Article{Altan2021, <br>
+author={Altan, Gokhan<br>
+and Yay{\i}k, Apdullah<br>
+and Kutlu, Yakup},<br>
+title={Deep Learning with ConvNet Predicts Imagery Tasks Through EEG},<br>
+journal={Neural Processing Letters},<br>
+year={2021},<br>
+month={May},<br>
+day={25},<br>
+issn={1573-773X},<br>
+doi={10.1007/s11063-021-10533-7},<br>
+url={https://doi.org/10.1007/s11063-021-10533-7}<br>
+}
+
 ## Train Deep ConvNET with raw EEG data
 	
 ### downloadEEGMMI
 Downloads and saves EEGMMI dataset  from Pyhsionet with corresponding events event
 
-               X .................vector includes subject ids to be downloaded (1-109)
-               n..................tasks to be downloaded (1-14)
+		X .................vector includes subject ids to be downloaded (1-109)
+		n..................tasks to be downloaded (1-14)
 
 ### usage
                    subject=1:15
@@ -58,10 +74,6 @@ Downloads and saves EEGMMI dataset  from Pyhsionet with corresponding events eve
 
 ###  implementMLP
 	Scripts to train and test with MLP
-
-
-Apdullah Yayık, 2018
-ayayik@kho.edu.tr
 
 
 
